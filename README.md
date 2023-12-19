@@ -3,6 +3,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="200"/>
 </div>
+<div>
+  Hallo, 🌱 I’m currently learning Python, Visualization and SQL for being a Data Analyst.
+  <p>
+    I'm getting in touch to let you know that I'm currently searching for a new opportunity in Tech Industry, as a Frontend Web Developer.
+  </p>
+</div>
 
 <!--
 **nukaamin/nukaamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
